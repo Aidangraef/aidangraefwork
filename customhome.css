@@ -1,4 +1,16 @@
+/*
 :root {
-    /*--accent: red;*/
+    --accent: red;
     background-color: #1f1f46;
-  }
+}
+*/
+
+nav {
+    float: right
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
