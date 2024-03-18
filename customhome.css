@@ -11,9 +11,14 @@
 }
 
 .homepicture {
-    float: left;
     border-radius: 25px;
 }
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
 
 nav {
     float: right
