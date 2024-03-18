@@ -5,6 +5,10 @@
 }
 */
 
+.NameTitle {
+    float: right;
+}
+
 nav {
     float: right
 }
