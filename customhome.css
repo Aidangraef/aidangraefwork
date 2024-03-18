@@ -10,7 +10,9 @@
     float: left;
 }
 
-header
+.homepicture {
+    float: left
+}
 
 nav {
     float: right
