@@ -11,7 +11,8 @@
 }
 
 .homepicture {
-    float: left
+    float: left;
+    border-radius: 25px;
 }
 
 nav {
