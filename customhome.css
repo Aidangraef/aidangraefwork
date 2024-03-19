@@ -54,6 +54,10 @@ nav a {
     font-size: 14px;
 }
 
+a p {
+    text-decoration: none;
+}
+
 nav a:hover {
     color: #000;
 }
